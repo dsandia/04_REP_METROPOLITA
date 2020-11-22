@@ -4225,6 +4225,10 @@
 			.grid-style > :nth-child(1n) {
 				width: calc(100% + 2rem);
 			}
-#three, #four, #footer section { display:none}
-#banner b{color:white;font-weight: 900; !important}
+			
+	}
+#three, #four, #footer section
+	{
+  display:none;
 		}
+		#banner b{color:white;font-weight: 900; !important}
